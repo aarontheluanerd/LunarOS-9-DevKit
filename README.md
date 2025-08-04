@@ -14,10 +14,10 @@ Don't hesitate to send me a DM in discord! I'll happily review your program and 
 
 ### Requirements for approval *or something*
 
-1.- No hidden malicious code against the game itself and not the OS itself
-2.- Over-usage of external libraries/events (mostly in game.ReplicatedStorage)
-3.- Appropiate content that follows Roblox's TOS (of course)
-4.- Correct usage of LunarOS's APIs
-5.- Be a cool app *or something*
+1. No hidden malicious code against the game itself and not the OS itself
+2. Over-usage of external libraries/events (mostly in game.ReplicatedStorage)
+3. Appropiate content that follows Roblox's TOS (of course)
+4. Correct usage of LunarOS's APIs
+5. Be a cool app *or something*
 
 This repo uses the MIT license or something too
