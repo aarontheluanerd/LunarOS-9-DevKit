@@ -1,4 +1,4 @@
-![Lunar OS 9 Logo](./images/Extended%20Logo%20DevEdition.png)
+![LunarOS 9 Logo](./images/Extended%20Logo%20DevEdition.png)
 
 This is a DevKit for creating/developing programs in **LunarOS 9** (A Roblox-Based OS), this repo contains the DevKit itself and a special edition of **LunarOS** for development usage.
 
